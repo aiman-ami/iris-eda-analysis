@@ -58,5 +58,5 @@ Python, pandas, matplotlib, seaborn
 ## Author
 
 **Aiman Ishaq**
-CS Student | Data Analyst Intern, Developers Hub Corporation
+CS Student | Data science and Analytics Intern, Developers Hub Corporation
 [LinkedIn](https://linkedin.com/in/aiman-ishaq) . [GitHub](https://github.com/aiman-ami)
